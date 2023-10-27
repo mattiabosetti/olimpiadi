@@ -1,0 +1,3 @@
+apx run sudo add-apt-repository ppa:system76/pop
+apx run sudo apt update
+apx run sudo apt install pop-theme
